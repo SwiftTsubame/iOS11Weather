@@ -3,6 +3,8 @@ iOS 11 Native Weather App Clone.
 
 One of the main Purpose of this repo is to show how to use custom collectionViewLayout to reproduce the smooth scrolling experience in the native weather app.
 
+![](https://github.com/SwiftTsubame/iOS11Weather/raw/master/weather.gif)
+
 ## Compatibility
 This project is written in Swift 3.0 and requires Xcode 8.2+ to build and run.
 
